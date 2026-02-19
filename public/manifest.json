@@ -1,0 +1,23 @@
+{
+    "name": "8-Bit Oracle I-Ching",
+    "short_name": "8-Bit Oracle",
+    "description": "Tech-Noir I-Ching",
+    "start_url": "https://app.8bitoracle.ai",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#2EBD2E",
+    "icons": [
+      {
+        "src": "/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }

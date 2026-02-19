@@ -1,0 +1,11 @@
+{
+  "version": "0.8.0",
+  "buildNumber": 2286,
+  "commitHash": "9263c23cbdc57fb5853c8afd592f376a75a2f7c1",
+  "commitShort": "9263c23c",
+  "branch": "main",
+  "buildDate": "2026-02-19T12:57:06.067Z",
+  "buildTimestamp": 1771505826068,
+  "nodeVersion": "v22.22.0",
+  "environment": "production"
+}

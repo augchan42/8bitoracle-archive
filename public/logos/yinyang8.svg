@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="-50 -50 100 100"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="yinyang8.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.7487781"
+     inkscape:cx="35.920677"
+     inkscape:cy="50.706427"
+     inkscape:window-width="1536"
+     inkscape:window-height="793"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5" />
+  <g
+     id="yin-yang"
+     sodipodi:insensitive="true">
+    <circle
+       r="48"
+       fill="#000000"
+       id="circle1"
+       cx="0"
+       cy="0" />
+    <path
+       fill="#00ff00"
+       d="M 0,48 A 48,48 0 0 1 0,-48 24,24 0 0 1 0,0 24,24 0 0 0 0,48"
+       id="path1" />
+    <!-- 7-Segment "8" in green section -->
+    <!-- 7-Segment "8" in black section -->
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 1">
+    <g
+       transform="matrix(0.5,0,0,0.5,-4.3461997,-34.437)"
+       fill="#000000"
+       id="g15">
+      <path
+         d="M 2.52044,5 5,7.60466 4.98637,16.5717 2.49319,19 0,16.58527 V 7.55039 Z"
+         id="path9" />
+      <path
+         d="M 17.52044,5 20,7.60466 19.98637,16.5717 17.49319,19 15,16.58527 V 7.55039 Z"
+         id="path10" />
+      <path
+         d="M 2.52044,22 5,24.60466 4.98637,33.5717 2.49319,36 0,33.58527 v -9.03488 z"
+         id="path11" />
+      <path
+         d="M 17.52044,22 20,24.60466 19.98637,33.5717 17.49319,36 15,33.58527 v -9.03488 z"
+         id="path12" />
+      <path
+         d="M 17,3.51956 14.39534,6 5.4283,5.98637 3,3.49319 5.41473,1 h 9.03488 z"
+         id="path13" />
+      <path
+         d="M 17,37.51956 14.39534,40 5.4283,39.98637 3,37.49319 5.41473,35 h 9.03488 z"
+         id="path14" />
+      <path
+         d="M 17,20.51956 14.39534,23 5.4283,22.98637 3,20.49319 5.41473,18 h 9.03488 z"
+         id="path15" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 2">
+    <g
+       transform="matrix(0.5,0,0,0.5,-4.0034007,13.73695)"
+       fill="#00ff00"
+       id="g8">
+      <path
+         d="M 2.52044,5 5,7.60466 4.98637,16.5717 2.49319,19 0,16.58527 V 7.55039 Z"
+         id="path2" />
+      <path
+         d="M 17.52044,5 20,7.60466 19.98637,16.5717 17.49319,19 15,16.58527 V 7.55039 Z"
+         id="path3" />
+      <path
+         d="M 2.52044,22 5,24.60466 4.98637,33.5717 2.49319,36 0,33.58527 v -9.03488 z"
+         id="path4" />
+      <path
+         d="M 17.52044,22 20,24.60466 19.98637,33.5717 17.49319,36 15,33.58527 v -9.03488 z"
+         id="path5" />
+      <path
+         d="M 17,3.51956 14.39534,6 5.4283,5.98637 3,3.49319 5.41473,1 h 9.03488 z"
+         id="path6" />
+      <path
+         d="M 17,37.51956 14.39534,40 5.4283,39.98637 3,37.49319 5.41473,35 h 9.03488 z"
+         id="path7" />
+      <path
+         d="M 17,20.51956 14.39534,23 5.4283,22.98637 3,20.49319 5.41473,18 h 9.03488 z"
+         id="path8" />
+    </g>
+  </g>
+</svg>
